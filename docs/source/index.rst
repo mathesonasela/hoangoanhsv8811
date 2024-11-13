@@ -1,22 +1,234 @@
-Welcome to Lumache's documentation!
+Hoàng Oanh - CEO SV88: Doanh nhân trẻ dẫn đầu ngành cá cược trực tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hoàng Oanh <https://sv88.black/tac-gia/hoang-oanh-sv88/>`_ người sáng lập và CEO của SV88, là một doanh nhân trẻ tài ba, nổi tiếng trong lĩnh vực cá cược trực tuyến tại Việt Nam và Châu Á. Với nền tảng học vấn vững chắc, tốt nghiệp thủ khoa ngành Công nghệ Thông tin tại Đại học Xây dựng và sở hữu bằng thạc sĩ Quản trị Kinh doanh tại Đại học Cambridge, Hoàng Oanh đã xây dựng SV88 thành một thương hiệu uy tín. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Đam mê và kinh nghiệm của Hoàng Oanh trong lĩnh vực giải trí trực tuyến đã thúc đẩy cô phát triển một sân chơi hiện đại, minh bạch và an toàn cho người chơi. Dưới sự lãnh đạo của Hoàng Oanh, SV88 không chỉ nổi bật về tính năng sản phẩm mà còn ghi dấu ấn trong việc đảm bảo giao dịch an toàn, bảo mật thông tin và trách nhiệm xã hội. 
 
-.. note::
+Với tầm nhìn chiến lược, Hoàng Oanh đặt mục tiêu đưa SV88 vươn ra toàn cầu, trở thành sự lựa chọn hàng đầu của những người đam mê cá cược.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 83 Hẻm 292 Tân Kỳ Tân Quý, Sơn Kỳ, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0338452545. 
 
-   usage
-   api
+Email: linktrangchusv88@gmail.com. 
+
+Website: https://sv88.black/tac-gia/hoang-oanh-sv88/ 
+
+#hoangoanh #ceohoangoanh #hoangoanhsv88 #sv88
+https://www.tliu.co.za/web/hoangoanhsv88/home/-/blogs/hoang-oanh-ceo-sv88-doanh-nhan-tre-dan-dau-nganh-ca-cuoc-truc-tuyen
+http://www.lemmth.gr/web/hoangoanhsv88/home/-/blogs/hoang-oanh-ceo-sv88-doanh-nhan-tre-dan-dau-nganh-ca-cuoc-truc-tuyen
+https://customer.wabtec.com/cwcportal/web/hoangoanhsv88/home/-/blogs/hoang-oanh-ceo-sv88-doanh-nhan-tre-dan-dau-nganh-ca-cuoc-truc-tuyen
+https://hoangoanhsv88.onlc.fr/
+https://hoangoanhsv88.onlc.be/
+https://hoangoanhsv88.onlc.eu/
+https://hoangoanhsv88.onlc.ml/
+https://hoangoanhsv88.amebaownd.com/posts/55650863
+https://hoangoanhsv88.therestaurant.jp/posts/55650869
+https://hoangoanhsv88.shopinfo.jp/posts/55650880
+https://hoangoanhsv88.theblog.me/posts/55650884
+https://hoangoanhsv88.themedia.jp/posts/55650887
+https://hoangoanhsv88.localinfo.jp/posts/55650892
+https://zenwriting.net/hoangoanhsv88/hoang-oanh-ceo-sv88-doanh-nhan-tre-dan-dau-nganh-ca-cuoc-truc-tuyen
+https://hoangoanhsv88.blogspot.com/2024/10/hoang-oanh-ceo-sv88-doanh-nhan-tre-dan.html
+https://sites.google.com/view/hoangoanhsv88/home
+https://band.us/band/96600123
+https://glose.com/activity/671e041be7182d035ba1b1f2
+https://www.quora.com/profile/Hoangoanhsv88
+https://hoangoanhsv88.doorkeeper.jp/
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=vi
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ar
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=bg
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=bn
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ca
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=cs
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=da
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=de
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=el
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=fa
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=fr
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=gsw
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=he
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=hi
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=hr
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=id
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=it
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ja
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=lv
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ms
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=no
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=pl
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=pt
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=pt_PT
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ro
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=te
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=th
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=tr
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=uk
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=zh
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=zh_HK
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=fil
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=mr
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=sv
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=sk
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=sl
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=sr
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ta
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=hu
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=zh-CN
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=am
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=es_US
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=nl
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=sw
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=pt-BR
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=af
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=de_AT
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=fi
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=zh_TW
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=fr_CA
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=es-419
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ln
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=mn
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=be
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=pt-PT
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=gl
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=gu
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ko
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=iw
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ru
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=sr_Latn
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=es_PY
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=kk
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=zh-TW
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=es
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=et
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=lt
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ml
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ky
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=fr_CH
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=es_DO
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=uz
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=es_AR
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=eu
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=az
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=ka
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=en-GB
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=en-US
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?gl=EG
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=km
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?hl=my
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?gl=AE
+https://chromewebstore.google.com/detail/pretty-hair-tie/mnkpdecjelpnldbacciglpdckpmgniei?gl=ZA
+https://www.facebook.com/hoangoanhsv88
+https://x.com/hoangoanhsv88
+https://www.youtube.com/@hoangoanhsv88
+https://www.pinterest.com/hoangoanhsv88/
+https://vimeo.com/hoangoanhsv88
+https://www.blogger.com/profile/17852455256346306956
+https://gravatar.com/hoangoanhsv88
+https://talk.plesk.com/members/hoangoanhsv.373388/#about
+https://www.tumblr.com/hoangoanhsv88
+https://awnguyenthiphuongl.wixsite.com/hoangoanhsv88
+https://www.openstreetmap.org/user/hoangoanhsv88
+https://profile.hatena.ne.jp/hoangoanhsv88/profile
+https://issuu.com/hoangoanhsv88
+https://www.twitch.tv/hoangoanhsv88/about
+https://hoangoanhsv88.bandcamp.com/album/ceo-sv88-hoang-oanh
+https://disqus.com/by/hoangoanhsv88/about/
+https://hoangoanhsv88.readthedocs.io/
+https://about.me/hoangoanhsv88
+https://www.mixcloud.com/hoangoanhsv88/
+https://hub.docker.com/u/hoangoanhsv88
+https://500px.com/p/hoangoanhsv88
+https://www.producthunt.com/@hoangoanhsv88
+https://www.zillow.com/profile/hoangoanhsv88
+https://hoangoanhsv88.notion.site/Ho-ng-Oanh-CEO-SV88-Doanh-nh-n-tr-d-n-u-ng-nh-c-c-c-tr-c-tuy-n-12c3924fdfff80558921dee5e9522203?pvs=4
+https://gitee.com/hoangoanhsv88
+https://readthedocs.org/projects/ceo-sv88-hoang-oanh/
+https://sketchfab.com/hoangoanhsv88
+https://www.reverbnation.com/artist/hoangoanhsv88
+https://connect.garmin.com/modern/profile/da446250-aa92-4407-b7c1-d4efa537d8b9
+https://awnguyenthiphuongloan283802.systeme.io/
+https://resurrection.bungie.org/forum/index.pl?profile=hoangoanhsv88
+https://hoangoanhsv88.threadless.com/about
+https://public.tableau.com/app/profile/ceo.sv88.ho.ng.oanh/vizzes
+https://tvchrist.ning.com/profile/hoangoanhsv88
+https://cdn.muvizu.com/Profile/hoangoanhsv88/Latest
+https://3dwarehouse.sketchup.com/user/e918cb4b-8334-4de3-879d-67c80386c624/CEO-SV88-H
+https://flipboard.com/@hoangoanhsv88/ho-ng-oanh---ceo-sv88-doanh-nh-n-tr-d-n-u-ng-nh-c-c-c-tr-c-tuy-n-pjr4jnuty
+https://www.credly.com/users/hoangoanhsv88/badges
+https://heylink.me/hoangoanhsv88/
+https://jsfiddle.net/hoangoanhsv88/h6dmra2p/
+https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/831415
+https://www.walkscore.com/people/235833575363/ceo-sv88-hoang-oanh
+https://forum.melanoma.org/user/hoangoanhsv88/profile/
+https://hackerone.com/hoangoanhsv88
+https://www.diigo.com/profile/hoangoanhsv88
+https://telegra.ph/hoangoanhsv88-10-27
+https://wakelet.com/@hoangoanhsv88
+https://forum.acronis.com/it/user/744368
+https://dreevoo.com/profile.php?pid=701887
+https://taplink.cc/hoangoanhsv88
+https://hashnode.com/@hoangoanhsv88
+https://anyflip.com/homepage/tltkg#About
+https://forum.dmec.vn/index.php?members/hoangoanhsv88.81945/
+https://www.instapaper.com/p/hoangoanhsv88
+https://www.beatstars.com/awnguyenthiphuongloan283802/about
+https://beacons.ai/hoangoanhsv88
+http://hoangoanhsv88.minitokyo.net/
+https://jaga.link/hoangoanhsv88
+https://s.id/hoangoanhsv88
+https://writexo.com/share/a3a9zy7
+https://pbase.com/hoangoanhsv88/hoangoanhsv88
+https://audiomack.com/hoangoanhsv88
+https://myanimelist.net/profile/hoangoanhsv88
+https://forum.codeigniter.com/member.php?action=profile&uid=131975
+https://www.mindmeister.com/app/map/3489380273?t=mgKV3gKWME
+https://leetcode.com/u/hoangoanhsv88/
+https://hackmd.io/@hoangoanhsv88/B1ff3UolJx
+https://www.elephantjournal.com/profile/hoangoanhsv88/
+https://forum.index.hu/User/UserDescription?u=2033586
+https://pxhere.com/en/photographer-me/4413756
+https://starity.hu/profil/500797-hoangoanhsv88/
+https://www.spigotmc.org/members/hoangoanhsv88.2152378/
+https://www.furaffinity.net/user/hoangoanhsv88
+https://play.eslgaming.com/player/myinfos/20416565/
+https://www.silverstripe.org/ForumMemberProfile/show/184586
+https://www.emoneyspace.com/hoangoanhsv88
+https://www.callupcontact.com/b/businessprofile/CEO_SV88_Hong_Oanh/9342494
+https://www.intensedebate.com/profiles/hoangoanhsv88
+https://www.niftygateway.com/@hoangoanhsv88/
+https://files.fm/hoangoanhsv88/info
+https://booklog.jp/users/hoangoanhsv88/profile
+https://socialtrain.stage.lithium.com/t5/user/viewprofilepage/user-id/108633
+https://app.scholasticahq.com/scholars/348155-ceo-sv88-hoang-oanh
+https://community.alteryx.com/t5/user/viewprofilepage/user-id/647202
+https://stocktwits.com/hoangoanhsv88
+https://hoangoanhsv88.blogspot.com/2024/10/hoangoanhsv88.html
+https://hoangoanhsv88.hashnode.dev/hoangoanhsv88
+https://varecha.pravda.sk/profil/hoangoanhsv88/o-mne/
+https://app.roll20.net/users/15079012/hoang-oanh-ceo-sv88-doanh-nhan-tre-dan-d
+https://www.metal-archives.com/users/hoangoanhsv88
+https://www.veoh.com/users/hoangoanhsv88
+https://www.designspiration.com/hoangoanhsv88/saves/
+https://www.bricklink.com/aboutMe.asp?u=hoangoanhsv88
+https://os.mbed.com/users/hoangoanhsv88/
+https://www.webwiki.com/sv88.black/tac-gia/hoang-oanh-sv88/
+https://hypothes.is/users/hoangoanhsv88
+https://influence.co/hoangoanhsv88
+https://www.fundable.com/user-989658
+https://www.bandlab.com/hoangoanhsv88
+https://tupalo.com/en/users/7728833
+https://pinshape.com/users/5866244-hoangoanhsv88#designs-tab-open
+https://www.fitday.com/fitness/forums/members/hoangoanhsv88.html
+https://www.renderosity.com/users/id:1582009
+https://www.speedrun.com/users/hoangoanhsv88
+https://www.longisland.com/profile/hoangoanhsv88
+https://photoclub.canadiangeographic.ca/profile/21406386
+https://pastelink.net/hoangoanhsv88
+https://www.mountainproject.com/user/201942538/hoangoanh-sv88
+https://www.storeboard.com/ceosv88hoangoanh
+https://www.gta5-mods.com/users/hoangoanhsv88
